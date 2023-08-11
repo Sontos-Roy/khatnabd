@@ -9,7 +9,9 @@
 section#home{
     display: block;
 } */
-
+.carousel-control-prev{
+    left: 0;
+}
 @media (min-width: 1024px) {
     .pushed-image{
         margin: -150px 0px 0px 0px;
