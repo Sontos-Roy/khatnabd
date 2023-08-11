@@ -1,0 +1,11 @@
+.navbar-light .navbar-nav .nav-link {
+    font-weight: 600 !important;
+    color: rgb(106 106 106 / 95%);
+    margin: 0 10px;
+}
+section{
+    display: none;
+}
+section#home{
+    display: block;
+}
