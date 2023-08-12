@@ -379,7 +379,7 @@ docReady(detectorInit);
 docReady(scrollToTop);
 //# sourceMappingURL=theme.js.map
 
-
+AOS.init();
 
 let items = document.querySelectorAll('.carousel .carousel-item')
 

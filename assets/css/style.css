@@ -3,6 +3,16 @@
     color: rgb(106 106 106 / 95%);
     margin: 0 10px;
 }
+.text-primary{
+    color: #64a2c9 !important;
+}
+.bg-primary{
+    background-color: #64a2c9 !important;
+}
+.btn-primary{
+    background-color: #64a2c9 !important;
+    border-color: #64a2c9 !important;
+}
 /* section{
     display: none;
 }
@@ -52,4 +62,8 @@ section#home{
 .carousel-inner .carousel-item-end,
 .carousel-inner .carousel-item-start { 
     transform: translateX(0);
+}
+
+.btn.hover-top:hover{
+    transform: scale(0.7);
 }
